@@ -1,0 +1,8 @@
+Model Information:
+* title:	Starmie
+* source:	https://sketchfab.com/3d-models/starmie-eaf18b58f7d049e0a454e26cfad29ea4
+* author:	Goitya (https://sketchfab.com/Goitya)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
